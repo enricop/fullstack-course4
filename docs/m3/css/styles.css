@@ -1,0 +1,12 @@
+.boxy {
+    background-color: gray;
+      
+    margin: 1%;
+    padding: 1%;
+    border: 1%;
+}
+
+.boxtitle {
+    font-size: larger;
+    text-align: center;
+}
